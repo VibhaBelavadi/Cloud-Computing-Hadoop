@@ -5,9 +5,9 @@ CS 6343: CLOUD COMPUTING
 Project #1
 
 ♦ Input files
-   A sanitized crime database from http://utdallas.edu/~ilyen/course/cloud/for15f/data.zip
-   The source of this crime database was from http://www.police.uk/data
-   An example input file: http://utdallas.edu/~ilyen/course/cloud/for15f/proj1-input.txt
+1)  A sanitized crime database from http://utdallas.edu/~ilyen/course/cloud/for15f/data.zip
+2)  The source of this crime database was from http://www.police.uk/data
+3)  An example input file: http://utdallas.edu/~ilyen/course/cloud/for15f/proj1-input.txt
 
 ♦ Write a MapReduce program to compute the total crime incidents of each crime type in each region
    Region definition
